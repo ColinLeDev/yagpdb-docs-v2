@@ -822,7 +822,7 @@ All keys are optional, but the Discord API will reject completey empty messages,
   - `color`: hex accent color (optional).
   - `spoiler`: hides content until revealed (optional).
 - `buttons`: Interactive [buttons](#cbutton) users can click. Can be single or multiple.
-- `menus`: Interactive [menus](#cmenu)s users can select from. Can be single or multiple.
+- `menus`: Interactive [menus](#cmenu) users can select from. Can be single or multiple.
 - `interactive_components`: Mix of buttons and menus, auto-distributed.
 - `allowed_mentions`: A sdict with the following keys:
   - `users`: A slice of user IDs.
